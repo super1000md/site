@@ -1,1 +1,0 @@
-﻿<li><a href="<#ZC_BLOG_HOST#>catalog.asp?user=1">admin<span class="article-nums"> (2)</span></a></li>
