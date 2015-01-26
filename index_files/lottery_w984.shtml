@@ -1,0 +1,784 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0073)http://baidu.lecai.com/page/zhuanti/baidu/lottery_w984.shtml?agentId=5538 -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="apple-itunes-app" content="app-id=427927518">
+<meta property="qc:admins" content="2012211377645053116375">
+
+
+
+
+
+
+
+
+        
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+<title> </title>
+<script type="text/javascript" src="jquery.js"></script>
+<style type="text/css"><!--
+body{ -webkit-text-size-adjust:none;}
+body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, ol, li, pre, form, fieldset, legend, button, input, textarea, th, td { margin: 0; padding: 0;}
+img, input, select { vertical-align: middle;}
+body,button, input, select, textarea { font: 12px/1.5 tahoma, arial, \5b8b\4f53, sans-serif;}
+h1, h2, h3, h4, h5, h6 { font-size: 100%; }
+address, cite, dfn, em, var { font-style: normal; } 
+code, kbd, pre, samp { font-family: courier new, courier, monospace; } 
+small { font-size: 12px; }
+ul, ol { list-style: none; }
+a { text-decoration: none; color: #000;}
+a:hover { text-decoration: underline; }
+legend { color: #000; }
+fieldset, img { border: 0; } 
+button, input, select, textarea { font-size: 100%; }
+.left, .center, .l, .right, .r {display: inline; float: left;}
+.right, .r {float: right;}
+.red{color: #FF0000;}
+.clear{clear: both;} 
+.clearfix{zoom:1;}
+.clearfix:after{content:" ";font-size:0;display:block;height:0;clear:both;visibility:hidden;overflow:hidden;}
+.lottery-box{width:982px; height:88px; border: 1px #9eb1cc solid; color:#405a73;}
+.lottery-box .lottery-title{height:21px;border-bottom:2px solid #386c9e;}
+.lottery-box .lottery-title .l{float:left; display:inline; padding-top:2px; width:400px; padding-left: 125px; line-height:18px; background: url(img/lottery_bg.gif) 10px 0 no-repeat;}
+.lottery-box .lottery-title .l span{margin-right:2px; border:1px solid #386c9e; border-bottom: none; float:left; display:inline; width:92px; height:18px; cursor:pointer; color:#386c9e; background:#e4edf9; text-align: center; font-size: 14px; font-weight: bold;}
+.lottery-box .lottery-title .l .now{ border:1px solid #386c9e; border-bottom: none; color:#FFFFFF; background:#386c9e;}
+.lottery-box .lottery-title .r{width:430px; line-height:22px; text-align:right; color: #386c9e; padding-right: 10px;}
+.lottery-box .lottery-title .r a{margin:0 2px;color: #386c9e;}
+
+.lottery-box .lottery-cont{height:60px; margin-top: 2px;}
+
+.lottery-box .lottery-cont .next-switch{width: 15px; height: 60px; float: left; background: url(img/lottery_bg.gif) 0 -160px no-repeat;}
+.lottery-box .lottery-cont .left-switch{background-position: 0 -160px; margin-right: 3px;}
+.lottery-box .lottery-cont .left-switch:hover{background-position: -32px -160px;}
+.lottery-box .lottery-cont .left-switch-none,
+.lottery-box .lottery-cont .left-switch-none:hover{background-position: -64px -160px; cursor: default;}
+.lottery-box .lottery-cont .right-switch{background-position: -16px -160px; margin-left: 3px;}
+.lottery-box .lottery-cont .right-switch:hover{background-position: -48px -160px;}
+.lottery-box .lottery-cont .right-switch-none,
+.lottery-box .lottery-cont .right-switch-none:hover{background-position: -80px -160px; cursor: default;}
+.lottery-box .lottery-cont .switch-cont{width:946px; height: 60px; overflow: hidden; float: left; position: relative; display: inline;º}
+
+.lottery-box .lottery-cont .wrap{position: absolute; left: 0; top: 0; width: 835px;}
+.lottery-box .lottery-cont .wrap ul{float:left; display:inline; width:314px; height: 60px; margin-right: 2px; background: #edf2f8;}
+.lottery-box .lottery-cont .wrap li{height: 18px;line-height:18px;padding-left:10px;}
+.lottery-box .lottery-cont .wrap .match{font-weight:700;}
+.lottery-box .lottery-cont .wrap li span{display:inline-block; text-align:center; width:78px; overflow: hidden; height: 18px; line-height: 18px;}
+.lottery-box .lottery-cont .wrap li .t{width: 55px; font-weight: bold; padding-left: 10px;}
+.lottery-box .lottery-cont .wrap li .s2{width:48px; font-weight: normal;}
+.lottery-box .lottery-cont .wrap li span a{background:url(img/lottery_bg.gif) no-repeat 0 -135px; width: 45px; height: 16px; display: inline-block;}
+.lottery-box .lottery-cont .wrap li .s-btn{background-position: 0 -67px;}
+.lottery-box .lottery-cont .wrap li .p-btn{background-position: 0 -84px;}
+.lottery-box .lottery-cont .wrap li .f-btn{background-position: 0 -101px;}
+.lottery-box .lottery-cont .wrap li .ks-btn{background-position: -48px -67px;}
+.lottery-box .lottery-cont .wrap li .zs-btn{background-position: -48px -84px;}
+.lottery-box .lottery-cont .wrap .none-ul{ margin: 0 auto; padding: 0; float: none; display: block; width: 946px;}
+.lottery-box .lottery-cont .wrap .none-ul li{text-align: center; line-height: 24px; padding-left: 330px; height: 55px; padding-top: 5px;}
+.lottery-box .lottery-cont .wrap .none-ul li .tit{width: 215px; float: left; font-family: 'Microsoft YaHei','微软雅黑'; font-size: 14px;}
+.lottery-box .lottery-cont .wrap .none-ul li .btn{float:left; width: 75px; height: 26px; margin-top: 10px; background: url(img/lottery_bg.gif) 0 -30px no-repeat; margin-left: 10px;}
+
+.lottery-box .lottery-cont .szc-box{float: left; width: 458px; height: 60px; padding: 0 15px; color: #000000; background: #edf2f8; margin-left: 2px;}
+.lottery-box .lottery-cont .szc-box .lot_logo{float: left; width: 55px; text-align: center; padding-top: 3px; padding-left: 10px;}
+.lottery-box .lottery-cont .szc-box .lot_right{float: left; width: 220px; padding-left: 25px; padding-top: 2px;}
+.lottery-box .lottery-cont .szc-box .lot_right .lot_info{height: 22px; line-height: 22px;}
+.lottery-box .lottery-cont .szc-box .lot_right .lot_info .redbold{font-weight: bold; color: #FF0000;}
+
+.lottery-box .lottery-cont .szc-box .lot_numselect{width: 115px; float: left; text-align: center; padding-top: 10px; padding-left: 15px;}
+.lottery-box .lottery-cont .szc-box .lot_numselect .qb_submit{width: 75px; height: 26px; background: url(img/lottery_bg.gif) 0 -30px no-repeat; border: 0; cursor: pointer;}
+
+.lot_selectnum li{float: left; width: 29px; height: 29px; margin-right: 2px;}
+.lot_selectnum .lot_sn_red ,.lot_selectnum .lot_sn_blue{background: url(img/lottery_bg.gif) no-repeat -1px -124px;position:relative;}
+.lot_selectnum .lot_sn_red{background-position:-32px -124px;}
+.lot_selectnum .lot_sn_blue{background-position:-1px -124px;}
+.lot_selectnum .lot_sn_red input,.lot_selectnum .lot_sn_blue input{width:18px;height:18px;position:absolute;top:5px;left:5px;border:0;font-weight:bold;font-size:13px;}
+--></style>
+</head>
+
+<body>
+<div class="lottery-box">
+    <div class="lottery-title">
+        <div class="l" id="lottery_tabs">
+            <span>足彩</span>
+            <span>篮彩</span>
+            <span>数字彩</span>
+            <span class="now">足球魔方</span>
+        </div>
+        <div class="r">购彩直通车：
+            <a href="http://baidu.lecai.com/lottery/jczq/?agentId=5538" target="_blank" tongji="stp=zhitongche">竞彩</a>|
+            <a href="http://baidu.lecai.com/lottery/jclq/?agentId=5538" target="_blank" tongji="stp=zhitongche">篮彩</a>|
+            <a href="http://baidu.lecai.com/lottery/zqdc/?agentId=5538" target="_blank" tongji="stp=zhitongche">北单</a>|
+            <a href="http://baidu.lecai.com/lottery/sfr9/?agentId=5538" target="_blank" tongji="stp=zhitongche">任9</a>|
+            <a href="http://baidu.lecai.com/lottery/ssq/?agentId=5538" target="_blank" tongji="stp=zhitongche">双色球</a>|
+            <a href="http://baidu.lecai.com/lottery/dlt/?agentId=5538" target="_blank" tongji="stp=zhitongche">大乐透</a>|
+            <a href="http://baidu.lecai.com/lottery/sd11x5/?agentId=5538" target="_blank" tongji="stp=zhitongche">老11选5</a>
+        </div>
+    </div>
+    <div class="lottery-cont" id="lottery_content">
+        <div class="cont clearfix" style="display:none;">
+            <a href="javascript://" id="left_switch_btn_jczq" class="next-switch left-switch left-switch-none"></a>
+            <div class="switch-cont">
+                <div class="wrap clearfix" id="switch_cont_jczq" style="width: 3792px; left: 0px;">
+                            <ul>
+        <li>
+            <span class="t">时间：</span>
+            <span class="s1">01月27日</span>
+            <span class="s2">17:00</span>
+            <span class="s3">亚洲杯</span>
+        </li>
+        <li class="match">
+            <span class="t">对阵：</span>
+            <span class="s1" title="澳大利">澳大利</span>
+            <span class="s2">VS</span>
+            <span class="s3" title="阿联酋">阿联酋</span>
+        </li>
+        <li>
+            <span class="t">下注：</span>
+            <span class="s1"><a target="_blank" href="http://baidu.lecai.com/lottery/jczq/spf_wrq/?match_num=2015012701001&v=3&agentId=5538" class="s-btn" tongji="stp=zucai"></a></span>
+            <span class="s2"><a target="_blank" href="http://baidu.lecai.com/lottery/jczq/spf_wrq/?match_num=2015012701001&v=1&agentId=5538" class="p-btn" tongji="stp=zucai"></a></span>
+            <span class="s3"><a target="_blank" href="http://baidu.lecai.com/lottery/jczq/spf_wrq/?match_num=2015012701001&v=0&agentId=5538" class="f-btn" tongji="stp=zucai"></a></span>
+        </li>
+    </ul>
+        <ul>
+        <li>
+            <span class="t">时间：</span>
+            <span class="s1">01月27日</span>
+            <span class="s2">04:00</span>
+            <span class="s3">意甲</span>
+        </li>
+        <li class="match">
+            <span class="t">对阵：</span>
+            <span class="s1" title="那不勒">那不勒</span>
+            <span class="s2">VS</span>
+            <span class="s3" title="热那亚">热那亚</span>
+        </li>
+        <li>
+            <span class="t">下注：</span>
+            <span class="s1"><a target="_blank" href="http://baidu.lecai.com/lottery/jczq/spf_wrq/?match_num=2015012601009&v=3&agentId=5538" class="s-btn" tongji="stp=zucai"></a></span>
+            <span class="s2"><a target="_blank" href="http://baidu.lecai.com/lottery/jczq/spf_wrq/?match_num=2015012601009&v=1&agentId=5538" class="p-btn" tongji="stp=zucai"></a></span>
+            <span class="s3"><a target="_blank" href="http://baidu.lecai.com/lottery/jczq/spf_wrq/?match_num=2015012601009&v=0&agentId=5538" class="f-btn" tongji="stp=zucai"></a></span>
+        </li>
+    </ul>
+        <ul>
+        <li>
+            <span class="t">时间：</span>
+            <span class="s1">01月27日</span>
+            <span class="s2">02:00</span>
+            <span class="s3">意甲</span>
+        </li>
+        <li class="match">
+            <span class="t">对阵：</span>
+            <span class="s1" title="恩波利">恩波利</span>
+            <span class="s2">VS</span>
+            <span class="s3" title="乌迪内">乌迪内</span>
+        </li>
+        <li>
+            <span class="t">下注：</span>
+            <span class="s1"><a target="_blank" href="http://baidu.lecai.com/lottery/jczq/spf_wrq/?match_num=2015012601002&v=3&agentId=5538" class="s-btn" tongji="stp=zucai"></a></span>
+            <span class="s2"><a target="_blank" href="http://baidu.lecai.com/lottery/jczq/spf_wrq/?match_num=2015012601002&v=1&agentId=5538" class="p-btn" tongji="stp=zucai"></a></span>
+            <span class="s3"><a target="_blank" href="http://baidu.lecai.com/lottery/jczq/spf_wrq/?match_num=2015012601002&v=0&agentId=5538" class="f-btn" tongji="stp=zucai"></a></span>
+        </li>
+    </ul>
+        <ul>
+        <li>
+            <span class="t">时间：</span>
+            <span class="s1">01月27日</span>
+            <span class="s2">02:00</span>
+            <span class="s3">非洲杯</span>
+        </li>
+        <li class="match">
+            <span class="t">对阵：</span>
+            <span class="s1" title="佛得角群岛">佛得角群岛</span>
+            <span class="s2">VS</span>
+            <span class="s3" title="赞比亚">赞比亚</span>
+        </li>
+        <li>
+            <span class="t">下注：</span>
+            <span class="s1"><a target="_blank" href="http://baidu.lecai.com/lottery/jczq/spf_wrq/?match_num=2015012601003&v=3&agentId=5538" class="s-btn" tongji="stp=zucai"></a></span>
+            <span class="s2"><a target="_blank" href="http://baidu.lecai.com/lottery/jczq/spf_wrq/?match_num=2015012601003&v=1&agentId=5538" class="p-btn" tongji="stp=zucai"></a></span>
+            <span class="s3"><a target="_blank" href="http://baidu.lecai.com/lottery/jczq/spf_wrq/?match_num=2015012601003&v=0&agentId=5538" class="f-btn" tongji="stp=zucai"></a></span>
+        </li>
+    </ul>
+        <ul>
+        <li>
+            <span class="t">时间：</span>
+            <span class="s1">01月27日</span>
+            <span class="s2">02:00</span>
+            <span class="s3">非洲杯</span>
+        </li>
+        <li class="match">
+            <span class="t">对阵：</span>
+            <span class="s1" title="刚果金">刚果金</span>
+            <span class="s2">VS</span>
+            <span class="s3" title="突尼斯">突尼斯</span>
+        </li>
+        <li>
+            <span class="t">下注：</span>
+            <span class="s1"><a target="_blank" href="http://baidu.lecai.com/lottery/jczq/spf_wrq/?match_num=2015012601004&v=3&agentId=5538" class="s-btn" tongji="stp=zucai"></a></span>
+            <span class="s2"><a target="_blank" href="http://baidu.lecai.com/lottery/jczq/spf_wrq/?match_num=2015012601004&v=1&agentId=5538" class="p-btn" tongji="stp=zucai"></a></span>
+            <span class="s3"><a target="_blank" href="http://baidu.lecai.com/lottery/jczq/spf_wrq/?match_num=2015012601004&v=0&agentId=5538" class="f-btn" tongji="stp=zucai"></a></span>
+        </li>
+    </ul>
+        <ul>
+        <li>
+            <span class="t">时间：</span>
+            <span class="s1">01月27日</span>
+            <span class="s2">03:00</span>
+            <span class="s3">荷兰乙</span>
+        </li>
+        <li class="match">
+            <span class="t">对阵：</span>
+            <span class="s1" title="PSV燕豪">PSV燕豪</span>
+            <span class="s2">VS</span>
+            <span class="s3" title="特温特">特温特</span>
+        </li>
+        <li>
+            <span class="t">下注：</span>
+            <span class="s1"><a target="_blank" href="http://baidu.lecai.com/lottery/jczq/spf_wrq/?match_num=2015012601005&v=3&agentId=5538" class="s-btn" tongji="stp=zucai"></a></span>
+            <span class="s2"><a target="_blank" href="http://baidu.lecai.com/lottery/jczq/spf_wrq/?match_num=2015012601005&v=1&agentId=5538" class="p-btn" tongji="stp=zucai"></a></span>
+            <span class="s3"><a target="_blank" href="http://baidu.lecai.com/lottery/jczq/spf_wrq/?match_num=2015012601005&v=0&agentId=5538" class="f-btn" tongji="stp=zucai"></a></span>
+        </li>
+    </ul>
+        <ul>
+        <li>
+            <span class="t">时间：</span>
+            <span class="s1">01月27日</span>
+            <span class="s2">03:30</span>
+            <span class="s3">法乙</span>
+        </li>
+        <li class="match">
+            <span class="t">对阵：</span>
+            <span class="s1" title="安格斯">安格斯</span>
+            <span class="s2">VS</span>
+            <span class="s3" title="布雷斯">布雷斯</span>
+        </li>
+        <li>
+            <span class="t">下注：</span>
+            <span class="s1"><a target="_blank" href="http://baidu.lecai.com/lottery/jczq/spf_wrq/?match_num=2015012601006&v=3&agentId=5538" class="s-btn" tongji="stp=zucai"></a></span>
+            <span class="s2"><a target="_blank" href="http://baidu.lecai.com/lottery/jczq/spf_wrq/?match_num=2015012601006&v=1&agentId=5538" class="p-btn" tongji="stp=zucai"></a></span>
+            <span class="s3"><a target="_blank" href="http://baidu.lecai.com/lottery/jczq/spf_wrq/?match_num=2015012601006&v=0&agentId=5538" class="f-btn" tongji="stp=zucai"></a></span>
+        </li>
+    </ul>
+        <ul>
+        <li>
+            <span class="t">时间：</span>
+            <span class="s1">01月27日</span>
+            <span class="s2">03:45</span>
+            <span class="s3">西甲</span>
+        </li>
+        <li class="match">
+            <span class="t">对阵：</span>
+            <span class="s1" title="赫塔菲">赫塔菲</span>
+            <span class="s2">VS</span>
+            <span class="s3" title="塞尔塔">塞尔塔</span>
+        </li>
+        <li>
+            <span class="t">下注：</span>
+            <span class="s1"><a target="_blank" href="http://baidu.lecai.com/lottery/jczq/spf_wrq/?match_num=2015012601007&v=3&agentId=5538" class="s-btn" tongji="stp=zucai"></a></span>
+            <span class="s2"><a target="_blank" href="http://baidu.lecai.com/lottery/jczq/spf_wrq/?match_num=2015012601007&v=1&agentId=5538" class="p-btn" tongji="stp=zucai"></a></span>
+            <span class="s3"><a target="_blank" href="http://baidu.lecai.com/lottery/jczq/spf_wrq/?match_num=2015012601007&v=0&agentId=5538" class="f-btn" tongji="stp=zucai"></a></span>
+        </li>
+    </ul>
+        <ul>
+        <li>
+            <span class="t">时间：</span>
+            <span class="s1">01月27日</span>
+            <span class="s2">04:00</span>
+            <span class="s3">英足总</span>
+        </li>
+        <li class="match">
+            <span class="t">对阵：</span>
+            <span class="s1" title="罗奇代">罗奇代</span>
+            <span class="s2">VS</span>
+            <span class="s3" title="斯托克">斯托克</span>
+        </li>
+        <li>
+            <span class="t">下注：</span>
+            <span class="s1"><a target="_blank" href="http://baidu.lecai.com/lottery/jczq/spf_wrq/?match_num=2015012601008&v=3&agentId=5538" class="s-btn" tongji="stp=zucai"></a></span>
+            <span class="s2"><a target="_blank" href="http://baidu.lecai.com/lottery/jczq/spf_wrq/?match_num=2015012601008&v=1&agentId=5538" class="p-btn" tongji="stp=zucai"></a></span>
+            <span class="s3"><a target="_blank" href="http://baidu.lecai.com/lottery/jczq/spf_wrq/?match_num=2015012601008&v=0&agentId=5538" class="f-btn" tongji="stp=zucai"></a></span>
+        </li>
+    </ul>
+        <ul>
+        <li>
+            <span class="t">时间：</span>
+            <span class="s1">01月27日</span>
+            <span class="s2">04:00</span>
+            <span class="s3">葡超</span>
+        </li>
+        <li class="match">
+            <span class="t">对阵：</span>
+            <span class="s1" title="费雷拉">费雷拉</span>
+            <span class="s2">VS</span>
+            <span class="s3" title="本菲卡">本菲卡</span>
+        </li>
+        <li>
+            <span class="t">下注：</span>
+            <span class="s1"><a target="_blank" href="http://baidu.lecai.com/lottery/jczq/spf_wrq/?match_num=2015012601010&v=3&agentId=5538" class="s-btn" tongji="stp=zucai"></a></span>
+            <span class="s2"><a target="_blank" href="http://baidu.lecai.com/lottery/jczq/spf_wrq/?match_num=2015012601010&v=1&agentId=5538" class="p-btn" tongji="stp=zucai"></a></span>
+            <span class="s3"><a target="_blank" href="http://baidu.lecai.com/lottery/jczq/spf_wrq/?match_num=2015012601010&v=0&agentId=5538" class="f-btn" tongji="stp=zucai"></a></span>
+        </li>
+    </ul>
+        <ul>
+        <li>
+            <span class="t">时间：</span>
+            <span class="s1">01月28日</span>
+            <span class="s2">02:00</span>
+            <span class="s3">非洲杯</span>
+        </li>
+        <li class="match">
+            <span class="t">对阵：</span>
+            <span class="s1" title="塞内加">塞内加</span>
+            <span class="s2">VS</span>
+            <span class="s3" title="阿尔及">阿尔及</span>
+        </li>
+        <li>
+            <span class="t">下注：</span>
+            <span class="s1"><a target="_blank" href="http://baidu.lecai.com/lottery/jczq/spf_wrq/?match_num=2015012701003&v=3&agentId=5538" class="s-btn" tongji="stp=zucai"></a></span>
+            <span class="s2"><a target="_blank" href="http://baidu.lecai.com/lottery/jczq/spf_wrq/?match_num=2015012701003&v=1&agentId=5538" class="p-btn" tongji="stp=zucai"></a></span>
+            <span class="s3"><a target="_blank" href="http://baidu.lecai.com/lottery/jczq/spf_wrq/?match_num=2015012701003&v=0&agentId=5538" class="f-btn" tongji="stp=zucai"></a></span>
+        </li>
+    </ul>
+        <ul>
+        <li>
+            <span class="t">时间：</span>
+            <span class="s1">01月28日</span>
+            <span class="s2">02:00</span>
+            <span class="s3">非洲杯</span>
+        </li>
+        <li class="match">
+            <span class="t">对阵：</span>
+            <span class="s1" title="南非">南非</span>
+            <span class="s2">VS</span>
+            <span class="s3" title="加纳">加纳</span>
+        </li>
+        <li>
+            <span class="t">下注：</span>
+            <span class="s1"><a target="_blank" href="http://baidu.lecai.com/lottery/jczq/spf_wrq/?match_num=2015012701004&v=3&agentId=5538" class="s-btn" tongji="stp=zucai"></a></span>
+            <span class="s2"><a target="_blank" href="http://baidu.lecai.com/lottery/jczq/spf_wrq/?match_num=2015012701004&v=1&agentId=5538" class="p-btn" tongji="stp=zucai"></a></span>
+            <span class="s3"><a target="_blank" href="http://baidu.lecai.com/lottery/jczq/spf_wrq/?match_num=2015012701004&v=0&agentId=5538" class="f-btn" tongji="stp=zucai"></a></span>
+        </li>
+    </ul>
+    
+                </div>
+            </div>
+            <a href="javascript://" id="right_switch_btn_jczq" class="next-switch right-switch"></a>
+        </div>
+        <div class="cont clearfix" style="display:none;">
+            <a href="javascript://" id="left_switch_btn_jclq" class="next-switch left-switch"></a>
+            <div class="switch-cont">
+                <div class="wrap clearfix" id="switch_cont_jclq">
+                            <ul>
+        <li>
+            <span class="t">时间：</span>
+            <span class="s1">01月27日</span>
+            <span class="s2">08:30</span>
+            <span class="s3">NBA</span>
+        </li>
+        <li class="match">
+            <span class="t">对阵：</span>
+            <span class="s1" title="开拓者">开拓者</span>
+            <span class="s2">让分</span>
+            <span class="s3" title="篮网">篮网</span>
+        </li>
+        <li>
+            <span class="t">下注：</span>
+            <span class="s1"><a target="_blank" href="http://baidu.lecai.com/lottery/jclq/rfsf/?match_num=2015012600301&v=0&agentId=5538" class="ks-btn" tongji="stp=lancai"></a></span>
+            <span class="s2">
+                                    7.5
+                            </span>
+            <span class="s3"><a target="_blank" href="http://baidu.lecai.com/lottery/jclq/rfsf/?match_num=2015012600301&v=3&agentId=5538" class="zs-btn" tongji="stp=lancai"></a></span>
+        </li>
+    </ul>
+        <ul>
+        <li>
+            <span class="t">时间：</span>
+            <span class="s1">01月27日</span>
+            <span class="s2">09:00</span>
+            <span class="s3">NBA</span>
+        </li>
+        <li class="match">
+            <span class="t">对阵：</span>
+            <span class="s1" title="魔术">魔术</span>
+            <span class="s2">让分</span>
+            <span class="s3" title="灰熊">灰熊</span>
+        </li>
+        <li>
+            <span class="t">下注：</span>
+            <span class="s1"><a target="_blank" href="http://baidu.lecai.com/lottery/jclq/rfsf/?match_num=2015012600303&v=0&agentId=5538" class="ks-btn" tongji="stp=lancai"></a></span>
+            <span class="s2">
+                                    -12.5
+                            </span>
+            <span class="s3"><a target="_blank" href="http://baidu.lecai.com/lottery/jclq/rfsf/?match_num=2015012600303&v=3&agentId=5538" class="zs-btn" tongji="stp=lancai"></a></span>
+        </li>
+    </ul>
+        <ul>
+        <li>
+            <span class="t">时间：</span>
+            <span class="s1">01月27日</span>
+            <span class="s2">09:00</span>
+            <span class="s3">NBA</span>
+        </li>
+        <li class="match">
+            <span class="t">对阵：</span>
+            <span class="s1" title="森林狼">森林狼</span>
+            <span class="s2">让分</span>
+            <span class="s3" title="雷霆">雷霆</span>
+        </li>
+        <li>
+            <span class="t">下注：</span>
+            <span class="s1"><a target="_blank" href="http://baidu.lecai.com/lottery/jclq/rfsf/?match_num=2015012600305&v=0&agentId=5538" class="ks-btn" tongji="stp=lancai"></a></span>
+            <span class="s2">
+                                    -16.5
+                            </span>
+            <span class="s3"><a target="_blank" href="http://baidu.lecai.com/lottery/jclq/rfsf/?match_num=2015012600305&v=3&agentId=5538" class="zs-btn" tongji="stp=lancai"></a></span>
+        </li>
+    </ul>
+        <ul>
+        <li>
+            <span class="t">时间：</span>
+            <span class="s1">01月27日</span>
+            <span class="s2">11:30</span>
+            <span class="s3">NBA</span>
+        </li>
+        <li class="match">
+            <span class="t">对阵：</span>
+            <span class="s1" title="掘金">掘金</span>
+            <span class="s2">让分</span>
+            <span class="s3" title="快船">快船</span>
+        </li>
+        <li>
+            <span class="t">下注：</span>
+            <span class="s1"><a target="_blank" href="http://baidu.lecai.com/lottery/jclq/rfsf/?match_num=2015012600307&v=0&agentId=5538" class="ks-btn" tongji="stp=lancai"></a></span>
+            <span class="s2">
+                                    -11.5
+                            </span>
+            <span class="s3"><a target="_blank" href="http://baidu.lecai.com/lottery/jclq/rfsf/?match_num=2015012600307&v=3&agentId=5538" class="zs-btn" tongji="stp=lancai"></a></span>
+        </li>
+    </ul>
+        <ul>
+        <li>
+            <span class="t">时间：</span>
+            <span class="s1">01月27日</span>
+            <span class="s2">08:30</span>
+            <span class="s3">NBA</span>
+        </li>
+        <li class="match">
+            <span class="t">对阵：</span>
+            <span class="s1" title="国王">国王</span>
+            <span class="s2">让分</span>
+            <span class="s3" title="尼克斯">尼克斯</span>
+        </li>
+        <li>
+            <span class="t">下注：</span>
+            <span class="s1"><a target="_blank" href="http://baidu.lecai.com/lottery/jclq/rfsf/?match_num=2015012600302&v=0&agentId=5538" class="ks-btn" tongji="stp=lancai"></a></span>
+            <span class="s2">
+                                    4.5
+                            </span>
+            <span class="s3"><a target="_blank" href="http://baidu.lecai.com/lottery/jclq/rfsf/?match_num=2015012600302&v=3&agentId=5538" class="zs-btn" tongji="stp=lancai"></a></span>
+        </li>
+    </ul>
+        <ul>
+        <li>
+            <span class="t">时间：</span>
+            <span class="s1">01月27日</span>
+            <span class="s2">09:00</span>
+            <span class="s3">NBA</span>
+        </li>
+        <li class="match">
+            <span class="t">对阵：</span>
+            <span class="s1" title="76人">76人</span>
+            <span class="s2">让分</span>
+            <span class="s3" title="鹈鹕">鹈鹕</span>
+        </li>
+        <li>
+            <span class="t">下注：</span>
+            <span class="s1"><a target="_blank" href="http://baidu.lecai.com/lottery/jclq/rfsf/?match_num=2015012600304&v=0&agentId=5538" class="ks-btn" tongji="stp=lancai"></a></span>
+            <span class="s2">
+                                    -13.5
+                            </span>
+            <span class="s3"><a target="_blank" href="http://baidu.lecai.com/lottery/jclq/rfsf/?match_num=2015012600304&v=3&agentId=5538" class="zs-btn" tongji="stp=lancai"></a></span>
+        </li>
+    </ul>
+        <ul>
+        <li>
+            <span class="t">时间：</span>
+            <span class="s1">01月27日</span>
+            <span class="s2">10:00</span>
+            <span class="s3">NBA</span>
+        </li>
+        <li class="match">
+            <span class="t">对阵：</span>
+            <span class="s1" title="凯尔特人">凯尔特人</span>
+            <span class="s2">让分</span>
+            <span class="s3" title="爵士">爵士</span>
+        </li>
+        <li>
+            <span class="t">下注：</span>
+            <span class="s1"><a target="_blank" href="http://baidu.lecai.com/lottery/jclq/rfsf/?match_num=2015012600306&v=0&agentId=5538" class="ks-btn" tongji="stp=lancai"></a></span>
+            <span class="s2">
+                                    -6.5
+                            </span>
+            <span class="s3"><a target="_blank" href="http://baidu.lecai.com/lottery/jclq/rfsf/?match_num=2015012600306&v=3&agentId=5538" class="zs-btn" tongji="stp=lancai"></a></span>
+        </li>
+    </ul>
+    
+                </div>
+            </div>
+            <a href="javascript://" id="right_switch_btn_jclq" class="next-switch right-switch"></a>
+        </div>
+        <div class="cont clearfix" style="display:none;">
+            <div class="szc-box">
+                <div class="lot_logo"><img src="ssqlogo.gif"></div>
+                <div class="lot_right">
+                    <div class="lot_info">
+                        <p>奖池滚存：<span class="redbold"> ￥710,557,160  </span>元</p> 
+                    </div>
+                    <div class="lot_selectnumber">
+                        <ul class="lot_selectnum clearfix" id="qb_ssq_select">
+                            <li class="lot_sn_red lot_sn_red"><input type="text" maxlength="2"></li>
+                            <li class="lot_sn_red lot_sn_red"><input type="text" maxlength="2"></li>
+                            <li class="lot_sn_red lot_sn_red"><input type="text" maxlength="2"></li>
+                            <li class="lot_sn_red lot_sn_red"><input type="text" maxlength="2"></li>
+                            <li class="lot_sn_red lot_sn_red"><input type="text" maxlength="2"></li>
+                            <li class="lot_sn_red lot_sn_red"><input type="text" maxlength="2"></li>
+                            <li class="lot_sn_blue lot_sn_blue"><input type="text" maxlength="2"></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="lot_numselect">
+                    <form action="http://baidu.lecai.com/lottery/ssq/?agentId=5538" method="post" id="ssq_qb_form" target="_blank">
+                        <input type="button" class="qb_submit" value="" id="ssq_submit" tongji="stp=shuzicai"><br>
+                        <a href="javascript:;" class="buttontrans1" id="ssq_random">机选</a>
+                        <a href="javascript:;" class="buttontrans1" id="ssq_clear">清空</a>
+                        <a href="http://baidu.lecai.com/lottery/ssq/?play=lucky&agentId=5538" target="blank" tongji="stp=shuzicai">幸运选号</a>
+                        <input type="hidden" name="simulate_content">
+                    </form>
+                </div>
+            </div>
+            <div class="szc-box">
+                <div class="lot_logo"><img src="dltlogo.gif"></div>
+                <div class="lot_right">
+                    <div class="lot_info">
+                        <p>奖池滚存：<span class="redbold"> ￥922,553,782  </span>元</p> 
+                    </div>
+                    <div class="lot_selectnumber">
+                        <ul class="lot_selectnum clearfix" id="qb_dlt_select">
+                            <li class="lot_sn_red lot_sn_red"><input type="text" maxlength="2"></li>
+                            <li class="lot_sn_red lot_sn_red"><input type="text" maxlength="2"></li>
+                            <li class="lot_sn_red lot_sn_red"><input type="text" maxlength="2"></li>
+                            <li class="lot_sn_red lot_sn_red"><input type="text" maxlength="2"></li>
+                            <li class="lot_sn_red lot_sn_red"><input type="text" maxlength="2"></li>
+                            <li class="lot_sn_blue lot_sn_blue"><input type="text" maxlength="2"></li>
+                            <li class="lot_sn_blue lot_sn_blue"><input type="text" maxlength="2"></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="lot_numselect">
+                    <form action="http://baidu.lecai.com/lottery/dlt/?agentId=5538" method="post" id="dlt_qb_form" target="_blank">
+                        <input type="button" class="qb_submit" value="" id="dlt_submit" tongji="stp=shuzicai"><br>
+                        <a href="javascript:;" class="buttontrans1" id="dlt_random">机选</a>
+                        <a href="javascript:;" class="buttontrans1" id="dlt_clear">清空</a>
+                        <a href="http://baidu.lecai.com/lottery/dlt/?play=lucky&agentId=5538" target="blank" tongji="stp=shuzicai">幸运选号</a>
+                        <input type="hidden" name="simulate_content">
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="cont clearfix">
+            <iframe frameborder="0" src="lecai.html" height="60" width="982"></iframe>
+        </div>
+    </div>
+</div>
+<script type="text/javascript" src="quickbuy.js"></script>
+<script type="text/javascript">
+(function(){
+    var links = document.getElementsByTagName('a');
+    var forms = document.getElementsByTagName('form');
+    var request = window.location.search.match(/agentId=([^&]+)/);
+    if(request == null){
+        var request = ["agentId=5530", "5530"];
+    }
+    if(request != null){
+        for(var i = 0; i < links.length; i++) {
+            if(/\?/.test(links[i].href) && !/\javascript/.test(links[i].href)) {
+                links[i].href= links[i].href + "&"+ request[0];
+            }else if(!/\javascript/.test(links[i].href)){
+                links[i].href= links[i].href + "?" + request[0];
+            }
+        }
+        for(var i = 0; i < forms.length; i++){
+            forms[i].action = forms[i].action + '?' + request[0];
+        }
+    }
+})();
+
+function showGameDateUL(gameUL, index_position) {
+    // 滚动赛程事件
+    var switchCont = '#switch_cont_' + gameUL;
+    var leftBtn = '#left_switch_btn_' + gameUL,
+        rightBtn = '#right_switch_btn_' + gameUL;
+    var scoreTopPassIndex = index_position;
+    var $container = $(switchCont);
+    var total = $container.find('ul').length;
+
+    if(total == 0){
+        return;
+    }
+    if($container.find('ul').attr('class') == 'none-ul'){
+        $(leftBtn).addClass('left-switch-none');
+        $(rightBtn).addClass('right-switch-none');
+        return;
+    }
+    var stepWidth = 316;
+    $container.css('width', total * stepWidth + 'px');
+
+    // 显示到指定位置
+    function fixPosition(index) {
+        var l = -1 * index * stepWidth;
+        $container.animate({
+            left: l  + 'px'
+        },800);
+    }
+
+    fixPosition(0);
+
+    // 按钮显示点击
+    if(scoreTopPassIndex == 0){
+        $(leftBtn).addClass('left-switch-none');
+        $(rightBtn).removeClass('right-switch-none');
+    }
+
+    if(total <= 3){
+        $(leftBtn).addClass('left-switch-none');
+        $(rightBtn).addClass('right-switch-none');
+    }
+
+    // 绑定事件
+    $(rightBtn).unbind().bind('click', function(){
+        if(scoreTopPassIndex < total - 3){
+            scoreTopPassIndex++
+            fixPosition(scoreTopPassIndex);
+            $(leftBtn).removeClass('left-switch-none');
+        }
+
+        if(scoreTopPassIndex == total - 3){
+            $(rightBtn).addClass('right-switch-none');
+        }
+    });
+
+    $(leftBtn).unbind().bind('click', function(){
+        if(scoreTopPassIndex > 0){
+            scoreTopPassIndex--;
+            fixPosition(scoreTopPassIndex);
+            $(rightBtn).removeClass('right-switch-none');
+        }
+        
+        if(scoreTopPassIndex == 0){
+            $(leftBtn).addClass('left-switch-none');
+        }
+    });
+}
+showGameDateUL('jczq', 0);
+
+$(document).ready(function(){
+    /*
+    var lotteryJsBaseUrl = 'http://static.lecai.com/js/lottery';
+    var quickBuyLotterys = {
+        'ssq' : {
+            'scripts' : [{'url' : lotteryJsBaseUrl + '/ssq/ssq.base.js' , 'global' : false} , {'url' : lotteryJsBaseUrl + '/ssq/ssq.index.js' , 'global' : false}],
+            'lazy' : false
+        },
+        'dlt' : {
+            'scripts' : [{'url' : lotteryJsBaseUrl + '/dlt/dlt.base.js' , 'global' : false} , {'url' : lotteryJsBaseUrl + '/dlt/dlt.index.js' , 'global' : false}],
+            'lazy' : false
+        }
+    };  
+    var loadQuickBuyLottery = function(lottery){
+        $.ajaxLoadScripts(lottery.scripts);
+    };
+    for(var l in quickBuyLotterys){
+        var lottery = quickBuyLotterys[l];
+        if( ! lottery.lazy){
+            loadQuickBuyLottery(lottery);
+        }
+    }
+    */
+    $('#lottery_tabs span').mouseenter(function(){
+        $(this).addClass('now').siblings().removeClass('now');
+        var n = $(this).index();
+        if(n == 3){
+            $($('#lottery_content .cont')[n]).css('visibility', 'visible').siblings().hide();
+        }else{
+            $($('#lottery_content .cont')[n]).css("display","block");
+            $('#lottery_content .cont').each(function(i){
+                if(i != n && i != 3){
+                    $(this).css("display","none");
+                }else if(i==3){
+                    $(this).css("visibility","hidden");
+                } 
+            });
+        }
+        
+        switch($(this).index()+1){
+            case 1:
+                showGameDateUL('jczq', 0);
+                break;
+            case 2:
+                showGameDateUL('jclq', 0);
+                break;
+            case 3://数字彩随机操作
+              //切换后换随机一注
+                ssq_random();
+                dlt_random();
+                break;
+        }
+    });
+    // 随机生成一注
+    $('#dlt_random').click(function(){
+        dlt_random();
+    });
+    $('#ssq_random').click(function(){
+        ssq_random();
+    });
+    //清空
+    $('#dlt_clear').click(function(){
+        $('#qb_dlt_select .lot_sn_red input[type=text]').val('');
+        $('#qb_dlt_select .lot_sn_blue input[type=text]').val('');
+    });
+    $('#ssq_clear').click(function(){
+        $('#qb_ssq_select .lot_sn_red input[type=text]').val('');
+        $('#qb_ssq_select .lot_sn_blue input[type=text]').val('');
+    });
+
+    var img = document.createElement('img');
+    $('a,.qb_submit').mousedown(function(){
+        var tongji = $(this).attr('tongji');
+        if(tongji){
+            img.src = 'http://nsclick.baidu.com/v.gif?pid=107&type=0&m=11&ct=1&c=top&bl=baidulecai&temp=' + new Date().getTime() + "&" + tongji;
+        }
+    });
+});
+</script>
+
+ </body></html>
